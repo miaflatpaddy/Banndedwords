@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="WinFormsApp10.BannedWords">
+    <Position X="9.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAoAAAAAAAAAAAAAABAAgAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>BannedWords.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp10.CopyFix">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAKAEAgAAAAAAAAAAAggAAAAAAABAAAABAAA=</HashCode>
+      <FileName>CopyFix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp10.Form1">
+    <Position X="3" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ASQAAAEQACAAIBAQAASAAAACAMQ7AAAAkHQPAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp10.Form2">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEAACAAABAAAAKAAAACAAAIIAIAAEAAAAAAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp10.Report">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCQAAIAAAGAAgAIABAAAAAABAAAICAACAAASAABAAAA=</HashCode>
+      <FileName>Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp10.Search">
+    <Position X="7.25" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAkAACgAAAAAAAIAAAAAAAAAAAAAgDAAAIJAAAJAAAA=</HashCode>
+      <FileName>Search.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinFormsApp10.Stopper">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stopper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
